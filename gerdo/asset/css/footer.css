@@ -1,0 +1,44 @@
+footer .note{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.479);
+    padding-bottom: 2%;
+}
+footer .col-md h5{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.548);
+    padding: 5%;
+}
+footer .col-md a{
+    padding: 1%;
+    padding-left: 5%;
+    width: fit-content;
+}
+footer .col-md a:hover{
+    font-weight: bolder;
+}
+footer .icon{
+    font-size: 150%;
+}
+footer .icon a{
+    color: white;
+}
+footer .icon .bi-facebook:hover{
+    color: rgb(64, 139, 224);
+}
+footer .icon .bi-whatsapp:hover{
+    color: rgb(64, 224, 131);
+}
+footer .icon .bi-instagram:hover{
+    color: rgb(224, 101, 64);
+}
+footer .icon .bi-telegram:hover{
+    color: rgb(64, 139, 224);
+}
+footer .icon i{
+    padding: 1%;
+    padding-right: 5%;
+}
+footer p{
+    width: fit-content;
+}
+footer .copy{
+    width: fit-content;
+}
